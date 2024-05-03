@@ -1,0 +1,33 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+    background-color: brown;
+    height: 90px;
+}
+.left{
+    padding: 10px;
+    width : 50%;
+}
+.right{
+    display: flex;
+    width: 50%;
+    justify-content: space-evenly;
+
+}
+.list{
+    text-decoration: none;
+    color: blanchedalmond;
+    list-style: none;
+    margin: 5px;
+}
+.nav {
+    color : white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+.image{
+    width: 50px;
+    height : 50px;
+    border-radius: 25px;
+}
